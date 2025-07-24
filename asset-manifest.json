@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Italian-Paradise-game/static/css/main.af80ad7b.css",
+    "main.js": "/Italian-Paradise-game/static/js/main.22f488db.js",
+    "index.html": "/Italian-Paradise-game/index.html",
+    "main.af80ad7b.css.map": "/Italian-Paradise-game/static/css/main.af80ad7b.css.map",
+    "main.22f488db.js.map": "/Italian-Paradise-game/static/js/main.22f488db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af80ad7b.css",
+    "static/js/main.22f488db.js"
+  ]
+}
